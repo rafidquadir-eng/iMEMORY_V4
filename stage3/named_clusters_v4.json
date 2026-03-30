@@ -1,0 +1,3170 @@
+{
+  "74": {
+    "name": "CKD_01",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 4853
+  },
+  "125": {
+    "name": "CKD_02",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 1202
+  },
+  "79": {
+    "name": "CKD_03",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 328
+  },
+  "75": {
+    "name": "CKD_04",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 297
+  },
+  "119": {
+    "name": "CKD_05",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 223
+  },
+  "68": {
+    "name": "CKD_06",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 172
+  },
+  "78": {
+    "name": "CKD_07",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 131
+  },
+  "160": {
+    "name": "CKD_08",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 130
+  },
+  "39": {
+    "name": "CKD_09",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 107
+  },
+  "76": {
+    "name": "CKD_10",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 103
+  },
+  "9": {
+    "name": "CKD_11",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 76
+  },
+  "29": {
+    "name": "CKD_12",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 75
+  },
+  "54": {
+    "name": "CKD_13",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 75
+  },
+  "114": {
+    "name": "CKD_14",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 73
+  },
+  "143": {
+    "name": "CKD_15",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 73
+  },
+  "2": {
+    "name": "CKD_16",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 64
+  },
+  "19": {
+    "name": "CKD_17",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 62
+  },
+  "173": {
+    "name": "CKD_18",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 62
+  },
+  "146": {
+    "name": "CKD_19",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 57
+  },
+  "172": {
+    "name": "CKD_20",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 56
+  },
+  "63": {
+    "name": "CKD_21",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 55
+  },
+  "147": {
+    "name": "CKD_22",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 54
+  },
+  "37": {
+    "name": "CKD_23",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 53
+  },
+  "44": {
+    "name": "CKD_24",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 53
+  },
+  "161": {
+    "name": "CKD_25",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 53
+  },
+  "7": {
+    "name": "CKD_26",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 50
+  },
+  "72": {
+    "name": "CKD_27",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 49
+  },
+  "171": {
+    "name": "CKD_28",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 48
+  },
+  "64": {
+    "name": "CKD_29",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 43
+  },
+  "4": {
+    "name": "CKD_30",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 42
+  },
+  "144": {
+    "name": "CKD_31",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 42
+  },
+  "170": {
+    "name": "CKD_32",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 39
+  },
+  "11": {
+    "name": "CKD_33",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 38
+  },
+  "50": {
+    "name": "CKD_34",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 38
+  },
+  "167": {
+    "name": "CKD_35",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 38
+  },
+  "110": {
+    "name": "CKD_36",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 37
+  },
+  "47": {
+    "name": "CKD_37",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 36
+  },
+  "145": {
+    "name": "CKD_38",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 36
+  },
+  "134": {
+    "name": "CKD_39",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 35
+  },
+  "132": {
+    "name": "CKD_40",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 34
+  },
+  "3": {
+    "name": "CKD_41",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 33
+  },
+  "140": {
+    "name": "CKD_42",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 33
+  },
+  "73": {
+    "name": "CKD_43",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 32
+  },
+  "42": {
+    "name": "CKD_44",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 31
+  },
+  "97": {
+    "name": "CKD_45",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 31
+  },
+  "106": {
+    "name": "CKD_46",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 31
+  },
+  "48": {
+    "name": "CKD_47",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 30
+  },
+  "149": {
+    "name": "CKD_48",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 29
+  },
+  "164": {
+    "name": "CKD_49",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 29
+  },
+  "45": {
+    "name": "CKD_50",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 28
+  },
+  "56": {
+    "name": "CKD_51",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 28
+  },
+  "1": {
+    "name": "CKD_52",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 27
+  },
+  "10": {
+    "name": "CKD_53",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 26
+  },
+  "46": {
+    "name": "CKD_54",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 25
+  },
+  "139": {
+    "name": "CKD_55",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 24
+  },
+  "12": {
+    "name": "CKD_56",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 23
+  },
+  "58": {
+    "name": "CKD_57",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 21
+  },
+  "229": {
+    "name": "CKD_58",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 21
+  },
+  "123": {
+    "name": "CKD_59",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 19
+  },
+  "128": {
+    "name": "CKD_60",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 17
+  },
+  "186": {
+    "name": "CKD_61",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 17
+  },
+  "83": {
+    "name": "CKD_62",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 16
+  },
+  "36": {
+    "name": "CKD_63",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 14
+  },
+  "26": {
+    "name": "CKD_64",
+    "disease": "CKD",
+    "dc": [
+      2
+    ],
+    "n": 11
+  },
+  "390": {
+    "name": "Control_TI_01",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 126
+  },
+  "392": {
+    "name": "Control_TI_02",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 109
+  },
+  "384": {
+    "name": "Control_TI_03",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 103
+  },
+  "14": {
+    "name": "Control_TI_04",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 101
+  },
+  "5": {
+    "name": "Control_TI_05",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 100
+  },
+  "395": {
+    "name": "Control_TI_06",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 98
+  },
+  "284": {
+    "name": "Control_TI_07",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 89
+  },
+  "285": {
+    "name": "Control_TI_08",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 86
+  },
+  "375": {
+    "name": "Control_TI_09",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 84
+  },
+  "342": {
+    "name": "Control_TI_10",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 83
+  },
+  "372": {
+    "name": "Control_TI_11",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 83
+  },
+  "357": {
+    "name": "Control_TI_12",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 81
+  },
+  "347": {
+    "name": "Control_TI_13",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 77
+  },
+  "394": {
+    "name": "Control_TI_14",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 77
+  },
+  "348": {
+    "name": "Control_TI_15",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 74
+  },
+  "364": {
+    "name": "Control_TI_16",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 74
+  },
+  "231": {
+    "name": "Control_TI_17",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 73
+  },
+  "380": {
+    "name": "Control_TI_18",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 67
+  },
+  "208": {
+    "name": "Control_TI_19",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 66
+  },
+  "359": {
+    "name": "Control_TI_20",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 65
+  },
+  "363": {
+    "name": "Control_TI_21",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 63
+  },
+  "393": {
+    "name": "Control_TI_22",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 63
+  },
+  "349": {
+    "name": "Control_TI_23",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 62
+  },
+  "362": {
+    "name": "Control_TI_24",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 62
+  },
+  "351": {
+    "name": "Control_TI_25",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 60
+  },
+  "371": {
+    "name": "Control_TI_26",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 60
+  },
+  "391": {
+    "name": "Control_TI_27",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 60
+  },
+  "365": {
+    "name": "Control_TI_28",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 59
+  },
+  "313": {
+    "name": "Control_TI_29",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 57
+  },
+  "223": {
+    "name": "Control_TI_30",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 56
+  },
+  "222": {
+    "name": "Control_TI_31",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 55
+  },
+  "315": {
+    "name": "Control_TI_32",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 55
+  },
+  "344": {
+    "name": "Control_TI_33",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 55
+  },
+  "334": {
+    "name": "Control_TI_34",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 54
+  },
+  "191": {
+    "name": "Control_TI_35",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 53
+  },
+  "354": {
+    "name": "Control_TI_36",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 53
+  },
+  "378": {
+    "name": "Control_TI_37",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 52
+  },
+  "382": {
+    "name": "Control_TI_38",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 52
+  },
+  "181": {
+    "name": "Control_TI_39",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 51
+  },
+  "220": {
+    "name": "Control_TI_40",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 51
+  },
+  "279": {
+    "name": "Control_TI_41",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 50
+  },
+  "360": {
+    "name": "Control_TI_42",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 50
+  },
+  "366": {
+    "name": "Control_TI_43",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 50
+  },
+  "238": {
+    "name": "Control_TI_44",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 48
+  },
+  "311": {
+    "name": "Control_TI_45",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 48
+  },
+  "226": {
+    "name": "Control_TI_46",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 45
+  },
+  "254": {
+    "name": "Control_TI_47",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 44
+  },
+  "339": {
+    "name": "Control_TI_48",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 44
+  },
+  "388": {
+    "name": "Control_TI_49",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 44
+  },
+  "250": {
+    "name": "Control_TI_50",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 43
+  },
+  "340": {
+    "name": "Control_TI_51",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 42
+  },
+  "376": {
+    "name": "Control_TI_52",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 41
+  },
+  "255": {
+    "name": "Control_TI_53",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 40
+  },
+  "281": {
+    "name": "Control_TI_54",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 40
+  },
+  "341": {
+    "name": "Control_TI_55",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 40
+  },
+  "356": {
+    "name": "Control_TI_56",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 40
+  },
+  "162": {
+    "name": "Control_TI_57",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 39
+  },
+  "337": {
+    "name": "Control_TI_58",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 39
+  },
+  "209": {
+    "name": "Control_TI_59",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 38
+  },
+  "301": {
+    "name": "Control_TI_60",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 38
+  },
+  "358": {
+    "name": "Control_TI_61",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 38
+  },
+  "381": {
+    "name": "Control_TI_62",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 38
+  },
+  "386": {
+    "name": "Control_TI_63",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 38
+  },
+  "224": {
+    "name": "Control_TI_64",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 37
+  },
+  "264": {
+    "name": "Control_TI_65",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 37
+  },
+  "361": {
+    "name": "Control_TI_66",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 37
+  },
+  "227": {
+    "name": "Control_TI_67",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 36
+  },
+  "323": {
+    "name": "Control_TI_68",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 36
+  },
+  "369": {
+    "name": "Control_TI_69",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 35
+  },
+  "93": {
+    "name": "Control_TI_70",
+    "disease": "Control_TI",
+    "dc": [
+      3
+    ],
+    "n": 34
+  },
+  "115": {
+    "name": "Control_TI_71",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 34
+  },
+  "266": {
+    "name": "Control_TI_72",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 34
+  },
+  "280": {
+    "name": "Control_TI_73",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 33
+  },
+  "335": {
+    "name": "Control_TI_74",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 33
+  },
+  "352": {
+    "name": "Control_TI_75",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 33
+  },
+  "40": {
+    "name": "Control_TI_76",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 32
+  },
+  "189": {
+    "name": "Control_TI_77",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 32
+  },
+  "374": {
+    "name": "Control_TI_78",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 32
+  },
+  "51": {
+    "name": "Control_TI_79",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 31
+  },
+  "213": {
+    "name": "Control_TI_80",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 31
+  },
+  "244": {
+    "name": "Control_TI_81",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 31
+  },
+  "247": {
+    "name": "Control_TI_82",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 31
+  },
+  "338": {
+    "name": "Control_TI_83",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 31
+  },
+  "373": {
+    "name": "Control_TI_84",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 31
+  },
+  "385": {
+    "name": "Control_TI_85",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 31
+  },
+  "232": {
+    "name": "Control_TI_86",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 30
+  },
+  "355": {
+    "name": "Control_TI_87",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 30
+  },
+  "98": {
+    "name": "Control_TI_88",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 29
+  },
+  "234": {
+    "name": "Control_TI_89",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 29
+  },
+  "271": {
+    "name": "Control_TI_90",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 29
+  },
+  "253": {
+    "name": "Control_TI_91",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 28
+  },
+  "263": {
+    "name": "Control_TI_92",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 28
+  },
+  "265": {
+    "name": "Control_TI_93",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 28
+  },
+  "336": {
+    "name": "Control_TI_94",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 28
+  },
+  "353": {
+    "name": "Control_TI_95",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 28
+  },
+  "60": {
+    "name": "Control_TI_96",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 27
+  },
+  "61": {
+    "name": "Control_TI_97",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 27
+  },
+  "257": {
+    "name": "Control_TI_98",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 27
+  },
+  "343": {
+    "name": "Control_TI_99",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 27
+  },
+  "389": {
+    "name": "Control_TI_100",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 27
+  },
+  "17": {
+    "name": "Control_TI_101",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 26
+  },
+  "194": {
+    "name": "Control_TI_102",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 26
+  },
+  "379": {
+    "name": "Control_TI_103",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 26
+  },
+  "69": {
+    "name": "Control_TI_104",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 25
+  },
+  "86": {
+    "name": "Control_TI_105",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 25
+  },
+  "205": {
+    "name": "Control_TI_106",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 25
+  },
+  "346": {
+    "name": "Control_TI_107",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 25
+  },
+  "350": {
+    "name": "Control_TI_108",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 25
+  },
+  "368": {
+    "name": "Control_TI_109",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 25
+  },
+  "377": {
+    "name": "Control_TI_110",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 25
+  },
+  "154": {
+    "name": "Control_TI_111",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 24
+  },
+  "216": {
+    "name": "Control_TI_112",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 24
+  },
+  "221": {
+    "name": "Control_TI_113",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 24
+  },
+  "228": {
+    "name": "Control_TI_114",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 24
+  },
+  "237": {
+    "name": "Control_TI_115",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 24
+  },
+  "240": {
+    "name": "Control_TI_116",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 24
+  },
+  "332": {
+    "name": "Control_TI_117",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 24
+  },
+  "66": {
+    "name": "Control_TI_118",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 23
+  },
+  "192": {
+    "name": "Control_TI_119",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 23
+  },
+  "246": {
+    "name": "Control_TI_120",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 23
+  },
+  "312": {
+    "name": "Control_TI_121",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 22
+  },
+  "387": {
+    "name": "Control_TI_122",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 22
+  },
+  "275": {
+    "name": "Control_TI_123",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 21
+  },
+  "345": {
+    "name": "Control_TI_124",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 21
+  },
+  "370": {
+    "name": "Control_TI_125",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 21
+  },
+  "99": {
+    "name": "Control_TI_126",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 20
+  },
+  "230": {
+    "name": "Control_TI_127",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 20
+  },
+  "282": {
+    "name": "Control_TI_128",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 20
+  },
+  "34": {
+    "name": "Control_TI_129",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 19
+  },
+  "236": {
+    "name": "Control_TI_130",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 19
+  },
+  "270": {
+    "name": "Control_TI_131",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 19
+  },
+  "274": {
+    "name": "Control_TI_132",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 18
+  },
+  "211": {
+    "name": "Control_TI_133",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 17
+  },
+  "245": {
+    "name": "Control_TI_134",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 17
+  },
+  "258": {
+    "name": "Control_TI_135",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 16
+  },
+  "294": {
+    "name": "Control_TI_136",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 16
+  },
+  "333": {
+    "name": "Control_TI_137",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 16
+  },
+  "383": {
+    "name": "Control_TI_138",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 16
+  },
+  "8": {
+    "name": "Control_TI_139",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 15
+  },
+  "43": {
+    "name": "Control_TI_140",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 15
+  },
+  "207": {
+    "name": "Control_TI_141",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 15
+  },
+  "269": {
+    "name": "Control_TI_142",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 15
+  },
+  "101": {
+    "name": "Control_TI_143",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 14
+  },
+  "107": {
+    "name": "Control_TI_144",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 14
+  },
+  "235": {
+    "name": "Control_TI_145",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 14
+  },
+  "367": {
+    "name": "Control_TI_146",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 14
+  },
+  "169": {
+    "name": "Control_TI_147",
+    "disease": "Control_TI",
+    "dc": [
+      5
+    ],
+    "n": 11
+  },
+  "185": {
+    "name": "HD_01",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 406
+  },
+  "193": {
+    "name": "HD_02",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 310
+  },
+  "182": {
+    "name": "HD_03",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 91
+  },
+  "184": {
+    "name": "HD_04",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 86
+  },
+  "21": {
+    "name": "HD_05",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 79
+  },
+  "163": {
+    "name": "HD_06",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 76
+  },
+  "141": {
+    "name": "HD_07",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 69
+  },
+  "96": {
+    "name": "HD_08",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 64
+  },
+  "183": {
+    "name": "HD_09",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 61
+  },
+  "176": {
+    "name": "HD_10",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 60
+  },
+  "138": {
+    "name": "HD_11",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 59
+  },
+  "151": {
+    "name": "HD_12",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 54
+  },
+  "190": {
+    "name": "HD_13",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 53
+  },
+  "118": {
+    "name": "HD_14",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 51
+  },
+  "126": {
+    "name": "HD_15",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 51
+  },
+  "168": {
+    "name": "HD_16",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 46
+  },
+  "142": {
+    "name": "HD_17",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 45
+  },
+  "129": {
+    "name": "HD_18",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 44
+  },
+  "178": {
+    "name": "HD_19",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 40
+  },
+  "155": {
+    "name": "HD_20",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 39
+  },
+  "52": {
+    "name": "HD_21",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 37
+  },
+  "127": {
+    "name": "HD_22",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 37
+  },
+  "187": {
+    "name": "HD_23",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 37
+  },
+  "153": {
+    "name": "HD_24",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 35
+  },
+  "156": {
+    "name": "HD_25",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 35
+  },
+  "175": {
+    "name": "HD_26",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 33
+  },
+  "152": {
+    "name": "HD_27",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 32
+  },
+  "49": {
+    "name": "HD_28",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 29
+  },
+  "130": {
+    "name": "HD_29",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 29
+  },
+  "23": {
+    "name": "HD_30",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 28
+  },
+  "121": {
+    "name": "HD_31",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 27
+  },
+  "70": {
+    "name": "HD_32",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 25
+  },
+  "108": {
+    "name": "HD_33",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 24
+  },
+  "22": {
+    "name": "HD_34",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 23
+  },
+  "174": {
+    "name": "HD_35",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 23
+  },
+  "137": {
+    "name": "HD_36",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 22
+  },
+  "89": {
+    "name": "HD_37",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 15
+  },
+  "95": {
+    "name": "HD_38",
+    "disease": "HD",
+    "dc": [
+      3
+    ],
+    "n": 15
+  },
+  "120": {
+    "name": "KTx_Acute_01",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 3572
+  },
+  "84": {
+    "name": "KTx_Acute_02",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 989
+  },
+  "87": {
+    "name": "KTx_Acute_03",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 189
+  },
+  "210": {
+    "name": "KTx_Acute_04",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 153
+  },
+  "217": {
+    "name": "KTx_Acute_05",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 143
+  },
+  "256": {
+    "name": "KTx_Acute_06",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 141
+  },
+  "267": {
+    "name": "KTx_Acute_07",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 141
+  },
+  "251": {
+    "name": "KTx_Acute_08",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 135
+  },
+  "259": {
+    "name": "KTx_Acute_09",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 134
+  },
+  "296": {
+    "name": "KTx_Acute_10",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 129
+  },
+  "239": {
+    "name": "KTx_Acute_11",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 124
+  },
+  "305": {
+    "name": "KTx_Acute_12",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 117
+  },
+  "200": {
+    "name": "KTx_Acute_13",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 113
+  },
+  "225": {
+    "name": "KTx_Acute_14",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 107
+  },
+  "241": {
+    "name": "KTx_Acute_15",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 106
+  },
+  "283": {
+    "name": "KTx_Acute_16",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 95
+  },
+  "219": {
+    "name": "KTx_Acute_17",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 93
+  },
+  "150": {
+    "name": "KTx_Acute_18",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 92
+  },
+  "88": {
+    "name": "KTx_Acute_19",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 84
+  },
+  "273": {
+    "name": "KTx_Acute_20",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 84
+  },
+  "214": {
+    "name": "KTx_Acute_21",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 83
+  },
+  "215": {
+    "name": "KTx_Acute_22",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 81
+  },
+  "298": {
+    "name": "KTx_Acute_23",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 73
+  },
+  "314": {
+    "name": "KTx_Acute_24",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 73
+  },
+  "71": {
+    "name": "KTx_Acute_25",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 69
+  },
+  "248": {
+    "name": "KTx_Acute_26",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 69
+  },
+  "249": {
+    "name": "KTx_Acute_27",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 65
+  },
+  "90": {
+    "name": "KTx_Acute_28",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 63
+  },
+  "331": {
+    "name": "KTx_Acute_29",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 63
+  },
+  "41": {
+    "name": "KTx_Acute_30",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 62
+  },
+  "328": {
+    "name": "KTx_Acute_31",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 61
+  },
+  "319": {
+    "name": "KTx_Acute_32",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 57
+  },
+  "166": {
+    "name": "KTx_Acute_33",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 56
+  },
+  "303": {
+    "name": "KTx_Acute_34",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 56
+  },
+  "325": {
+    "name": "KTx_Acute_35",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 54
+  },
+  "268": {
+    "name": "KTx_Acute_36",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 51
+  },
+  "300": {
+    "name": "KTx_Acute_37",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 51
+  },
+  "206": {
+    "name": "KTx_Acute_38",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 49
+  },
+  "277": {
+    "name": "KTx_Acute_39",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 49
+  },
+  "289": {
+    "name": "KTx_Acute_40",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 49
+  },
+  "233": {
+    "name": "KTx_Acute_41",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 46
+  },
+  "304": {
+    "name": "KTx_Acute_42",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 46
+  },
+  "260": {
+    "name": "KTx_Acute_43",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 44
+  },
+  "278": {
+    "name": "KTx_Acute_44",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 41
+  },
+  "324": {
+    "name": "KTx_Acute_45",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 41
+  },
+  "287": {
+    "name": "KTx_Acute_46",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 40
+  },
+  "299": {
+    "name": "KTx_Acute_47",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 39
+  },
+  "318": {
+    "name": "KTx_Acute_48",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 39
+  },
+  "243": {
+    "name": "KTx_Acute_49",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 38
+  },
+  "276": {
+    "name": "KTx_Acute_50",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 38
+  },
+  "295": {
+    "name": "KTx_Acute_51",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 38
+  },
+  "218": {
+    "name": "KTx_Acute_52",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 37
+  },
+  "272": {
+    "name": "KTx_Acute_53",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 37
+  },
+  "297": {
+    "name": "KTx_Acute_54",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 37
+  },
+  "252": {
+    "name": "KTx_Acute_55",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 36
+  },
+  "292": {
+    "name": "KTx_Acute_56",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 36
+  },
+  "242": {
+    "name": "KTx_Acute_57",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 35
+  },
+  "286": {
+    "name": "KTx_Acute_58",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 35
+  },
+  "15": {
+    "name": "KTx_Acute_59",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 32
+  },
+  "212": {
+    "name": "KTx_Acute_60",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 31
+  },
+  "309": {
+    "name": "KTx_Acute_61",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 30
+  },
+  "321": {
+    "name": "KTx_Acute_62",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 30
+  },
+  "291": {
+    "name": "KTx_Acute_63",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 29
+  },
+  "262": {
+    "name": "KTx_Acute_64",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 28
+  },
+  "111": {
+    "name": "KTx_Acute_65",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 27
+  },
+  "261": {
+    "name": "KTx_Acute_66",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 26
+  },
+  "288": {
+    "name": "KTx_Acute_67",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 25
+  },
+  "307": {
+    "name": "KTx_Acute_68",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 25
+  },
+  "316": {
+    "name": "KTx_Acute_69",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 25
+  },
+  "330": {
+    "name": "KTx_Acute_70",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 25
+  },
+  "308": {
+    "name": "KTx_Acute_71",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 24
+  },
+  "290": {
+    "name": "KTx_Acute_72",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 23
+  },
+  "302": {
+    "name": "KTx_Acute_73",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 22
+  },
+  "293": {
+    "name": "KTx_Acute_74",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 21
+  },
+  "320": {
+    "name": "KTx_Acute_75",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 19
+  },
+  "329": {
+    "name": "KTx_Acute_76",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 19
+  },
+  "306": {
+    "name": "KTx_Acute_77",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 18
+  },
+  "322": {
+    "name": "KTx_Acute_78",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 18
+  },
+  "326": {
+    "name": "KTx_Acute_79",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 18
+  },
+  "327": {
+    "name": "KTx_Acute_80",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 17
+  },
+  "317": {
+    "name": "KTx_Acute_81",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 16
+  },
+  "310": {
+    "name": "KTx_Acute_82",
+    "disease": "KTx_Acute",
+    "dc": [
+      0
+    ],
+    "n": 14
+  },
+  "0": {
+    "name": "KTx_Chronic_01",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 10698
+  },
+  "77": {
+    "name": "KTx_Chronic_02",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 1699
+  },
+  "18": {
+    "name": "KTx_Chronic_03",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 1204
+  },
+  "196": {
+    "name": "KTx_Chronic_04",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 286
+  },
+  "112": {
+    "name": "KTx_Chronic_05",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 253
+  },
+  "30": {
+    "name": "KTx_Chronic_06",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 217
+  },
+  "82": {
+    "name": "KTx_Chronic_07",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 214
+  },
+  "16": {
+    "name": "KTx_Chronic_08",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 174
+  },
+  "105": {
+    "name": "KTx_Chronic_09",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 67
+  },
+  "131": {
+    "name": "KTx_Chronic_10",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 53
+  },
+  "177": {
+    "name": "KTx_Chronic_11",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 50
+  },
+  "62": {
+    "name": "KTx_Chronic_12",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 48
+  },
+  "92": {
+    "name": "KTx_Chronic_13",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 48
+  },
+  "180": {
+    "name": "KTx_Chronic_14",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 43
+  },
+  "80": {
+    "name": "KTx_Chronic_15",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 41
+  },
+  "158": {
+    "name": "KTx_Chronic_16",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 35
+  },
+  "32": {
+    "name": "KTx_Chronic_17",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 32
+  },
+  "100": {
+    "name": "KTx_Chronic_18",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 31
+  },
+  "24": {
+    "name": "KTx_Chronic_19",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 30
+  },
+  "94": {
+    "name": "KTx_Chronic_20",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 30
+  },
+  "157": {
+    "name": "KTx_Chronic_21",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 29
+  },
+  "165": {
+    "name": "KTx_Chronic_22",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 29
+  },
+  "31": {
+    "name": "KTx_Chronic_23",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 28
+  },
+  "135": {
+    "name": "KTx_Chronic_24",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 28
+  },
+  "59": {
+    "name": "KTx_Chronic_25",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 26
+  },
+  "116": {
+    "name": "KTx_Chronic_26",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 25
+  },
+  "55": {
+    "name": "KTx_Chronic_27",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 22
+  },
+  "103": {
+    "name": "KTx_Chronic_28",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 21
+  },
+  "124": {
+    "name": "KTx_Chronic_29",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 19
+  },
+  "28": {
+    "name": "KTx_Chronic_30",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 17
+  },
+  "109": {
+    "name": "KTx_Chronic_31",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 17
+  },
+  "25": {
+    "name": "KTx_Chronic_32",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 16
+  },
+  "117": {
+    "name": "KTx_Chronic_33",
+    "disease": "KTx_Chronic",
+    "dc": [
+      1
+    ],
+    "n": 13
+  },
+  "201": {
+    "name": "KTx_Stable_01",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 484
+  },
+  "203": {
+    "name": "KTx_Stable_02",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 329
+  },
+  "179": {
+    "name": "KTx_Stable_03",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 311
+  },
+  "81": {
+    "name": "KTx_Stable_04",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 218
+  },
+  "198": {
+    "name": "KTx_Stable_05",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 204
+  },
+  "199": {
+    "name": "KTx_Stable_06",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 143
+  },
+  "202": {
+    "name": "KTx_Stable_07",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 140
+  },
+  "195": {
+    "name": "KTx_Stable_08",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 113
+  },
+  "204": {
+    "name": "KTx_Stable_09",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 97
+  },
+  "13": {
+    "name": "KTx_Stable_10",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 95
+  },
+  "197": {
+    "name": "KTx_Stable_11",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 80
+  },
+  "20": {
+    "name": "KTx_Stable_12",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 78
+  },
+  "159": {
+    "name": "KTx_Stable_13",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 66
+  },
+  "91": {
+    "name": "KTx_Stable_14",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 62
+  },
+  "113": {
+    "name": "KTx_Stable_15",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 60
+  },
+  "57": {
+    "name": "KTx_Stable_16",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 53
+  },
+  "53": {
+    "name": "KTx_Stable_17",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 45
+  },
+  "102": {
+    "name": "KTx_Stable_18",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 44
+  },
+  "136": {
+    "name": "KTx_Stable_19",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 39
+  },
+  "104": {
+    "name": "KTx_Stable_20",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 33
+  },
+  "65": {
+    "name": "KTx_Stable_21",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 31
+  },
+  "27": {
+    "name": "KTx_Stable_22",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 30
+  },
+  "133": {
+    "name": "KTx_Stable_23",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 29
+  },
+  "188": {
+    "name": "KTx_Stable_24",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 29
+  },
+  "6": {
+    "name": "KTx_Stable_25",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 27
+  },
+  "122": {
+    "name": "KTx_Stable_26",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 25
+  },
+  "85": {
+    "name": "KTx_Stable_27",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 24
+  },
+  "33": {
+    "name": "KTx_Stable_28",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 23
+  },
+  "148": {
+    "name": "KTx_Stable_29",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 19
+  },
+  "38": {
+    "name": "KTx_Stable_30",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 16
+  },
+  "35": {
+    "name": "KTx_Stable_31",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 13
+  },
+  "67": {
+    "name": "KTx_Stable_32",
+    "disease": "KTx_Stable",
+    "dc": [
+      4
+    ],
+    "n": 12
+  }
+}

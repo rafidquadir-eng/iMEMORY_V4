@@ -1,0 +1,26 @@
+Cluster ID,Cluster name,Disease,N samples,N GEO studies,Year range,Human (n studies),Mouse (n studies),Primary modality,Modalities,Cell/tissue types,Study designs,Longitudinal (n),With PubMed ID (n),Example GEO titles
+242,CKD_Glomerulonephritis,CKD,2,2,N/A,0,0,Other/unknown,Other/unknown:2,Non-GEO | Not specified,"Non-GEO:1, Cross-sectional:1",0,1,Non-GEO // 
+354,CKD_Diabetic_nephropathy,CKD,0,0,N/A,0,0,Unknown,,,,0,0,
+80,CKD_Glomerular_disease,CKD,7,2,N/A,0,0,Other/unknown,Other/unknown:2,Non-GEO | Not specified,"Non-GEO:1, Cross-sectional:1",0,1,Non-GEO // 
+350,CKD_IgA_nephropathy,CKD,0,0,N/A,0,0,Unknown,,,,0,0,
+267,CKD_ADPKD,CKD,0,0,N/A,0,0,Unknown,,,,0,0,
+313,CKD_Focal_segmental_GS,CKD,0,0,N/A,0,0,Unknown,,,,0,0,
+12,CKD_Peripheral_blood,CKD,23,2,N/A,0,0,Other/unknown,Other/unknown:2,Non-GEO | Not specified,"Non-GEO:1, Cross-sectional:1",0,1,Non-GEO // 
+429,HD_Uremia_dialysis,HD,0,0,N/A,0,0,Unknown,,,,0,0,
+407,HD_Innate_immune_act,HD,0,0,N/A,0,0,Unknown,,,,0,0,
+262,HD_ESRD_early,HD,0,0,N/A,0,0,Unknown,,,,0,0,
+344,HD_ESRD_late,HD,0,0,N/A,0,0,Unknown,,,,0,0,
+337,HD_PBMC,HD,0,0,N/A,0,0,Unknown,,,,0,0,
+394,HD_Pre_post_dialysis,HD,0,0,N/A,0,0,Unknown,,,,0,0,
+395,HD_ESRD_periph_blood,HD,0,0,N/A,0,0,Unknown,,,,0,0,
+236,KTx_Acute_rej_Tcell,KTx,0,0,N/A,0,0,Unknown,,,,0,0,
+452,KTx_Acute_rej_AbMed,KTx,0,0,N/A,0,0,Unknown,,,,0,0,
+509,KTx_Acute_rej_mixed,KTx,0,0,N/A,0,0,Unknown,,,,0,0,
+264,KTx_Chronic_fibrosis,KTx,0,0,N/A,0,0,Unknown,,,,0,0,
+104,KTx_Chronic_IFTA,KTx,0,0,N/A,0,0,Unknown,,,,0,0,
+417,KTx_Chronic_allograft,KTx,0,0,N/A,0,0,Unknown,,,,0,0,
+387,KTx_CNI_inhibitor,KTx,0,0,N/A,0,0,Unknown,,,,0,0,
+361,KTx_Long_term_stable,KTx,0,0,N/A,0,0,Unknown,,,,0,0,
+347,KTx_CNI_minimization,KTx,0,0,N/A,0,0,Unknown,,,,0,0,
+455,KTx_Graft_monitoring,KTx,0,0,N/A,0,0,Unknown,,,,0,0,
+464,KTx_Multi_center_biopsy,KTx,0,0,N/A,0,0,Unknown,,,,0,0,

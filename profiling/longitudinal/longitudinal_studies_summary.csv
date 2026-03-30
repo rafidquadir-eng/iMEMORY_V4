@@ -1,0 +1,4 @@
+study_id,n_samples,disease_classes,ti_phases
+GSE267477,34,[5],{'No TI signal': 34}
+GSE180697,5000,[5],"{'E20 Maintenance': 4891, 'E1/E5 Induction': 100, 'No TI signal': 9}"
+GSE209985,188,[3],{'No TI signal': 188}

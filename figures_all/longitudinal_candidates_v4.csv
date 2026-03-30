@@ -1,0 +1,20 @@
+study_acc,cohort,repo_type,n_model,n_gsm,time_points,clinical_relevance
+GSE180697,Control/TI,ncbi_geo,5000,65,0h | 12h | day1 | day2 | day3 | day5,0h → 12h → Day 1 → Day 5 TI kinetics reference
+GSE209985,HD,ncbi_geo,188,188,D0 | D1 | D2 | D7,Day 0 → Day 1 → Day 2 → Day 7 acute HD response
+E-GEOD-24223,KTx_Stable,ebi_geod,179,179,Control Day 0 | Pre-Tx | Week 1 | Week 12 | Week 2 | Week 4,Pre-Tx → Week 1 → Week 2 → Week 4 → Week 12
+E-GEOD-25902,KTx_Stable,ebi_geod,120,120,00 months | 03 months | 06 months | 12 months | 24 months | Indication,0 → 3 → 6 → 12 → 24 months post-transplant
+E-GEOD-17183,CKD,ebi_geod,108,108,before therapy | under therapy,Before → under therapy CKD
+E-GEOD-24758,CKD,ebi_geod,101,77,12 months | 21-30 months | 24h | 31-40 months | 41-50 months | 51-60 months,Serial months 12 → 21-30 → 31-40 → 41-50 → 51-60 mo CKD progression
+E-GEOD-14901,KTx_Chronic,ebi_geod,72,72,0 | 14 days | 2 days,Day 0 → Day 2 → Day 14 post-transplant
+E-GEOD-27858,HD,ebi_geod,56,56,24h post tx | 4h post tx | 4weeks post tx | pre-tx,Pre-HD session → 4h → 24h → 4 weeks post-dialysis
+E-GEOD-34748,KTx_Stable,ebi_geod,56,56,≤1 year biopsy - Banff: cg=0 | ≥1 year biopsy - Banff: cg=0 | ≥1 year biopsy - Banff: cg>0 | ≥2 year biopsy - Banff: cg=0,Serial biopsies ≤1yr → ≥1yr Banff cg score
+E-GEOD-71063,HD,ebi_geod,40,40,Week0 | Week12,Week 0 → Week 12 serial HD
+E-GEOD-71064,HD,ebi_geod,40,40,0wk | 12wk,0 weeks → 12 weeks serial HD
+GSE267477,Control/TI,ncbi_geo,34,34,T0 | T1 | T2 | T3,T0 → T1 → T2 → T3 trained immunity
+E-GEOD-55898,CKD,ebi_geod,23,18,T0 | T3,T0 → T3 CKD treatment response
+E-GEOD-45170,HD,ebi_geod,12,18,1h after infection | 2h after infection | 4h after infection,Review needed
+E-GEOD-31704,HD,ebi_geod,6,6,Day 5 of reprogramming,Review needed
+E-GEOD-51627,KTx_Chronic,ebi_geod,6,6,120 hrs,Review needed
+E-GEOD-45505,HD,ebi_geod,6,1,21 d,Review needed
+E-GEOD-68046,Control/TI,ebi_geod,6,3,day 25 | day 42 | day 5,Review needed
+E-GEOD-55397,HD,ebi_geod,3,3,Early-replicating DNA,Review needed
